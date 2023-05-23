@@ -27,3 +27,4 @@ export default App;
 //? TODO:
 // fix mobile controls
 // change player model
+// change obstacle models
