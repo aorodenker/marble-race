@@ -23,3 +23,6 @@ const App = () => {
 };
 
 export default App;
+
+//? TODO:
+// fix mobile controls
